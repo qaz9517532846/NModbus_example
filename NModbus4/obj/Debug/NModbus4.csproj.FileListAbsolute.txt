@@ -1,0 +1,10 @@
+C:\Users\ZHE_MING\Desktop\NModbus_example\NModbus4\bin\Debug\NModbus4.dll
+C:\Users\ZHE_MING\Desktop\NModbus_example\NModbus4\bin\Debug\NModbus4.pdb
+C:\Users\ZHE_MING\Desktop\NModbus_example\NModbus4\obj\Debug\NModbus4.csproj.CoreCompileInputs.cache
+C:\Users\ZHE_MING\Desktop\NModbus_example\NModbus4\obj\Debug\NModbus4.dll
+C:\Users\ZHE_MING\Desktop\NModbus_example\NModbus4\obj\Debug\NModbus4.pdb
+C:\Users\cycha\OneDrive\桌面\NModbus_example\NModbus4\bin\Debug\NModbus4.dll
+C:\Users\cycha\OneDrive\桌面\NModbus_example\NModbus4\bin\Debug\NModbus4.pdb
+C:\Users\cycha\OneDrive\桌面\NModbus_example\NModbus4\obj\Debug\NModbus4.csproj.CoreCompileInputs.cache
+C:\Users\cycha\OneDrive\桌面\NModbus_example\NModbus4\obj\Debug\NModbus4.dll
+C:\Users\cycha\OneDrive\桌面\NModbus_example\NModbus4\obj\Debug\NModbus4.pdb
