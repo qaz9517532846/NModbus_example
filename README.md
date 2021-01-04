@@ -15,7 +15,7 @@ Open NModbus_example.sln file.
 
 # NModbus_example HMI.
 
-[!image](https://github.com/qaz9517532846/NModbus_example/blob/main/image/NModbus_example.png)
+![image](https://github.com/qaz9517532846/NModbus_example/blob/main/image/NModbus_example.png)
 
 ------
 
