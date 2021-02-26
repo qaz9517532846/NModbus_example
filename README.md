@@ -1,21 +1,17 @@
 # NModbus_example
-This HMI is can do Remote monitoring Techman Robot using NModbus4 and C#
+- This HMI is can do Remote monitoring Techman Robot using NModbus4 and C#
 
-Software: Visual Studio, NModbus4.
+- Software: Visual Studio, NModbus4.
 
-OS: Windows 10.
+- OS: Windows 10.
 
-------
+- Run NModbus_example
 
-# Run NModbus_example
+  - Open NModbus_example.sln file.
 
-Open NModbus_example.sln file.
+- NModbus_example HMI.
 
-------
-
-# NModbus_example HMI.
-
-![image](https://github.com/qaz9517532846/NModbus_example/blob/main/image/NModbus_example.png)
+  ![image](https://github.com/qaz9517532846/NModbus_example/blob/main/image/NModbus_example.png)
 
 ------
 
